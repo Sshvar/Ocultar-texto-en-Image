@@ -1,0 +1,1 @@
+# Ocultar-texto-en-Image
